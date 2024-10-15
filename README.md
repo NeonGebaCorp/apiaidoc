@@ -7,6 +7,9 @@ The Neon AI API allows you to interact with an AI-powered chatbot. You can send 
 ```
 https://neonai.neonstore.tech/
 ```
+```
+https://ais.snurlaelah1637617.workers.dev/
+```
 
 ## Endpoint
 
