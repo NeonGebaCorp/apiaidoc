@@ -31,8 +31,8 @@ To use **Base 1** (`neonai.neonstore.tech`), you need to include an API key in t
 
 **Query (Base 1 only):**
 | Query           | Value                     |
-|------------------|---------------------------|
-| `apiKey`  | string      |
+|-----------------|---------------------------|
+| `apiKey`        | string                    |
 
 **Query Parameters:**
 
